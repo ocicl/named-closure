@@ -1,0 +1,9 @@
+* named-closure
+
+Introspectable, readably-printable and redefinable closures
+
+|---------+---------------------------------------------------|
+| source  | git:https://github.com/kchanqvq/named-closure.git |
+| commit  | 16f669c                                           |
+| systems | named-closure                                     |
+|---------+---------------------------------------------------|
