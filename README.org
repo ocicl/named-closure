@@ -4,6 +4,6 @@ Introspectable, readably-printable and redefinable closures
 
 |---------+---------------------------------------------------|
 | source  | git:https://github.com/kchanqvq/named-closure.git |
-| commit  | b429dc7                                           |
+| commit  | fea3291                                           |
 | systems | named-closure                                     |
 |---------+---------------------------------------------------|
